@@ -12,7 +12,7 @@ Simple Tutorials &amp; Code Implementation of fast-style-transfer(Perceptual Los
   <img width="700" src="https://github.com/carpediem804/fast_style_transfer_pythorch/blob/master/style_image.jpg">
 </p>
 
-### Style Transfer Result image (Left: original / Right: output)
+### Style Transfer Result image (original / output)
 <p align="center">
   <img width="700" src="https://github.com/carpediem804/fast_style_transfer_pythorch/blob/master/test_img.jpg">
 </p>
