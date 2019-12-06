@@ -1,5 +1,5 @@
 # Reference
-- <a href="https://hoya012.github.io/blog/Fast-Style-Transfer-Tutorial/">  </a>
+- <a> "https://hoya012.github.io/blog/Fast-Style-Transfer-Tutorial/" </a>
 - <a href="https://github.com/pytorch/examples/tree/master/fast_neural_style" target="_blank"> pytorch example code </a>
 - <a href="https://ezgif.com/video-to-gif" target="_blank"> avi --> gif for demo </a>
 - <a href="https://colab.research.google.com/" target="_blank"> google colaboratory </a>
